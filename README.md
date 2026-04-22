@@ -100,25 +100,25 @@ This reference is used to evaluate the tracking ability of the numerical schemes
 
 ## Numerical results
 
-<img src="C:\Users\Mancx\AppData\Roaming\Typora\typora-user-images\image-20260422191935853.png" alt="image-20260422191935853" style="zoom: 33%;" />
+<img src="images\image-20260422191935853.png" alt="image-20260422191935853" style="zoom: 33%;" />
 
 <p align="center">y<sub>1</sub> tracking performances</p>
 
-<img src="C:\Users\Mancx\AppData\Roaming\Typora\typora-user-images\image-20260422192014575.png" alt="image-20260422192014575" style="zoom: 33%;" />
+<img src="images\image-20260422192014575.png" alt="image-20260422192014575" style="zoom: 33%;" />
 
 <p align="center">y<sub>2</sub> tracking performances</p>
 
-<img src="C:\Users\Mancx\AppData\Roaming\Typora\typora-user-images\image-20260422192129257.png" alt="image-20260422192129257" style="zoom: 33%;" />
+<img src="images\image-20260422192129257.png" alt="image-20260422192129257" style="zoom: 33%;" />
 
 <p align="center">Control input u<sub>1</sub></p>
 
-<img src="C:\Users\Mancx\AppData\Roaming\Typora\typora-user-images\image-20260422192137008.png" alt="image-20260422192137008" style="zoom: 33%;" />
+<img src="images\image-20260422192137008.png" alt="image-20260422192137008" style="zoom: 33%;" />
 
 <p align="center">Control input u<sub>2</sub></p>
 
 ## Continuum robot system other experimental result
 
-<img src="C:\Users\Mancx\Desktop\MFAC-master\del\Figure_2.png" alt="Figure_2" style="zoom:50%;" />
+<img src="images\Figure_2.png" alt="Figure_2" style="zoom:50%;" />
 
 <p align="center">y<sub>1</sub> tracking performances in continuum robots</p>
 
