@@ -1,7 +1,7 @@
 
 
 
-# Data driven control with error compensation in continuum robot
+# Data driven control with error compensation in a continuum robot
 
 This repository contains the simulation code and schemes for the paper submission related to **Data driven control with error compensation is modified by model free adaptive control** applied to **Continuum robot** systems.
 
